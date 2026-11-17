@@ -9,9 +9,10 @@ Aplikasi ini dibuat sebagai project Ujian Tengah Semester (UTS) dengan konsep **
 > [!IMPORTANT]
 > | Keterangan | Data |
 > |---|---|
-> | **NIM** | 1234567890 |
-> | **Nama** | Nama Mahasiswa |
-> | **Kelas** | TI-1A |
+> | **Mata Kuliah** | Pemograman Mobile 2 |
+> | **Nama** | Fitri Wulandari |
+> | **NIM** | 25552012009 |
+> | **Kelas** | TIF K-24B |
 
 ## Download APK
 
